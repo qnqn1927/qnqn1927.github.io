@@ -78,7 +78,7 @@ ax.grid(True)
 
 **OUTPUT**
 
-![](images/1億人のための統計解析をpythonで_case1_part2.png)
+![](images/1億人のための統計解析をpythonで_case1_part2.png)
 
 
 
@@ -146,7 +146,7 @@ Warnings:
 ```
 
 
-![](images/1億人のための統計解析をpythonで_case1_part2_2.png)
+![](images/1億人のための統計解析をpythonで_case1_part2_2.png)
 
 
 #### 結果の読み取り

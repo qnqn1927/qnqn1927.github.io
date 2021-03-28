@@ -172,9 +172,6 @@ ax2.fill_between(fill_x, fill_y, facecolor='cyan', alpha=0.3)
 
 **OUTPUT**
 
-![](images/1億人のための統計解析をpythonで_case1_part1.png)
-![image](images/1億人のための統計解析をpythonで_case1_part1.png)
-![](./images/1億人のための統計解析をpythonで_case1_part1.png)
 ![](images/1億人のための統計解析をpythonで_case1_part1.png)
 
 
