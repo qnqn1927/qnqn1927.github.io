@@ -1,9 +1,12 @@
 ---
 layout: index
+title: Welcome to qnqn1927's GitHub Pages
+description: 統計学について楽しみながら勉強しております。あわせて英語も学んでいます。I study statistics while having fun, and learn english too.
 ---
 
 ## Welcome to qnqn1927's GitHub Pages
 
-- [確率・統計]( {% link statistics/index.md %} ) : 確率・統計の学習履歴です
-- [ブログ]( {% link blog/index.md %} ) : ブログ記事です
-- [すべての記事一覧]( {% link all_posts/index.md %} ) : すべての記事一覧ページです
+- [確率・統計]( {% link statistics/index.md %} ) : 確率・統計の学習履歴
+- [miscellaneous]( {% link misc/index.md %} ) : 雑多な記事の集合
+- [ブログ]( {% link blog/index.md %} ) : ブログ記事
+- [すべての記事一覧]( {% link all_posts/index.md %} ) : すべての記事一覧
