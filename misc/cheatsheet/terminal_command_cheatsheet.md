@@ -21,6 +21,10 @@
 |ctrl + d|前の一文字を消す（delete）|
 |ctrl + c|（何らかのプロセスが動作しているときに）強制終了|
 |ctrl + d|接続している環境から抜ける（exit）|
+|ctrl + t|新しいタブを開く|
+|cmd + w|タブを閉じる|
+|cmd + shift + [←/→] |タブを切り替える|
+|ctrl + tab / ctrl + shift + tab|タブを切り替える|
 
 
 
