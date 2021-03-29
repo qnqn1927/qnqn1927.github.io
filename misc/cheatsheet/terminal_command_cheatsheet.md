@@ -1,10 +1,28 @@
 # terminal command cheat sheet
 
 - [terminal command cheat sheet](#terminal-command-cheat-sheet)
+	- [基本操作](#基本操作)
 	- [出力](#出力)
 	- [man](#man)
 	- [find](#find)
 		- [grep](#grep)
+
+## 基本操作
+
+|操作|動作|
+|:-:|:-:|
+|ctrl + f|カーソルを前に動かす|
+|ctrl + b|カーソルを後ろに動かす|
+|ctrl + p|カーソルを上へ動かす|
+|ctrl + n|カーソルを下へ動かす|
+|ctrl + a|カーソルを行頭へ移動させる|
+|ctrl + e|カーソルを行末へ移動させる|
+|ctrl + h|後ろの一文字を消す（backspace）|
+|ctrl + d|前の一文字を消す（delete）|
+|ctrl + c|（何らかのプロセスが動作しているときに）強制終了|
+|ctrl + d|接続している環境から抜ける（exit）|
+
+
 
 ## 出力
 
