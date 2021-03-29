@@ -1,10 +1,10 @@
 ---
 layout: index
-description: 
+description: 当ページのすべての記事一覧です
 ---
 
 ## すべての記事一覧
 
-{% for page in site.pages %}{% if page.name contains '.md' %} - [{{ page.title }}]({{ page.url }}) 
-{% endif %}{% endfor %}
-
+| TITLE | CATEGORY |
+|:--|:--|{% for page in site.pages %}{% if page.name contains '.md' and page.name != 'index.md' %}
+| <a href="{{ page.url }}">{{ page.title }}</a> | {{ page.dir }} | {% endif %}{% endfor %}
