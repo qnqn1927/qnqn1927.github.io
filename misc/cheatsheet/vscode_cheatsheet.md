@@ -8,6 +8,7 @@
   - [jupyter（include google colaboratory）](#jupyterinclude-google-colaboratory)
 
 ## 基本操作
+
 |操作|動作|
 |:-:|:-:|
 |command + [arrow keys]|行頭、行末、ファイルの先頭、ファイルの末尾に移動|
@@ -19,12 +20,14 @@
 |command + shift + p|command paletteの表示|
 
 ## タブ関連
+
 |操作|動作|
 |:-:|:-:|
 |command + W|タブを閉じる|
 |command + option + [left/right arrow]|タブの切り替え|
 
 ## 検索系
+
 |操作|動作|
 |:-:|:-:|
 |command + F|検索|
@@ -35,12 +38,16 @@
 |command + option + Return|置換の全実行|
 
 ## ターミナル
+
 |操作|動作|
 |:-:|:-:|
 |ctrl + shift + ^|統合型ターミナルの起動|
 
 ## jupyter（include google colaboratory）
+
 |操作|動作|
 |:-:|:-:|
 |command + shift + [¥/\]|対応するかっこに移動|
 |command + option + shift + [Left/Right Arrows]|まとまりごとの選択|
+
+

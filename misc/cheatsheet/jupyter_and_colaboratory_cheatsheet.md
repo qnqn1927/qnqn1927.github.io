@@ -16,7 +16,8 @@
 | カーソル位置で分割 |  | CMD/CTRL + M > - |
 
 ## その他
-| 実行内容 | key bindings | colaboratory keys |
+
+| 実行内容 | jupyter key bindings | colaboratory keys |
 | :-:| :-: | :-: |
 | 上にコードセルを追加 |  | CMD/CTRL + M > A |
 | 下にコードセルを追加 |  | CMD/CTRL + M > B |
