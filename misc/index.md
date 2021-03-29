@@ -1,5 +1,4 @@
 ---
-layout: index
 title: misc
 description: その他雑多な記事を集めてます
 ---

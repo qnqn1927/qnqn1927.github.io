@@ -1,5 +1,4 @@
 ---
-layout: index
 title: 確率・統計
 description: 確率・統計で学んだ内容をアウトプットしていきます
 ---

@@ -1,5 +1,5 @@
 ---
-layout: index
+layout: home
 title: Welcome to qnqn1927's GitHub Pages
 description: 統計学について楽しみながら勉強しております。あわせて英語も学んでいます。I study statistics while having fun, and learn english too.
 ---

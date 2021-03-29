@@ -1,5 +1,4 @@
 ---
-layout: index
 description: 当ページのすべての記事一覧です
 ---
 
