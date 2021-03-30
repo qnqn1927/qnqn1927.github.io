@@ -47,7 +47,7 @@ $$
 \\
 &=\lim _{\Delta x\rightarrow 0}\dfrac{\sum ^{n}_{k=0}\left( {}_n\mathrm{C}_{k}x^{n-k}\Delta x^{k}\right) -x^{n}}{\Delta x}
 \\
-&=\lim _{\Delta x\rightarrow 0}\dfrac{{}_n\mathrm{C}_{0}x^{n}\Delta x^{0}+{}_n\mathrm{C}_{1}x^{n-1}\Delta x^{1}+{}_n\mathrm{C}_{2}x^{n-2}\Delta x^{2}+\ldots +{}_n\mathrm{C}_{n}x^{0}\Delta x^{n}-x^{n}}{\Delta x}
+&=\lim _{\Delta x\rightarrow 0}\dfrac{ {}_n\mathrm{C}_{0}x^{n}\Delta x^{0}+{}_n\mathrm{C}_{1}x^{n-1}\Delta x^{1}+{}_n\mathrm{C}_{2}x^{n-2}\Delta x^{2}+\ldots +{}_n\mathrm{C}_{n}x^{0}\Delta x^{n}-x^{n}}{\Delta x}
 \\
 &=\lim _{\Delta x\rightarrow 0}\dfrac{x^{n}+nx^{n-1}\Delta x+ {}_n\mathrm{C}_{2}x^{n-2}\Delta x^{2}+\ldots +\Delta x^{n}-x^{n}}{\Delta x}
 \\
