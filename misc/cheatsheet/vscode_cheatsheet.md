@@ -3,9 +3,11 @@
 - [visual studio code cheat sheet](#visual-studio-code-cheat-sheet)
   - [基本操作](#基本操作)
   - [タブ関連](#タブ関連)
+  - [エディターグループ関連](#エディターグループ関連)
   - [検索系](#検索系)
   - [ターミナル](#ターミナル)
   - [jupyter（include google colaboratory）](#jupyterinclude-google-colaboratory)
+  - [参考文献](#参考文献)
 
 ## 基本操作
 
@@ -24,7 +26,20 @@
 |操作|動作|
 |:-:|:-:|
 |command + W|タブを閉じる|
-|command + option + [left/right arrow]|タブの切り替え|
+|command + option + [←/→]|タブの切り替え|
+|command + k then command + shift [←/→]|タブ自体を隣に移動させる|
+
+
+## エディターグループ関連
+
+|操作|動作|
+|:-:|:-:|
+|control + option + command + ¥(or \\)|エディタを分割する|
+|command + [1/2/3]|フォーカスをそれぞれfirst, second, thirdエディターグループに切り替える|
+|command + k then command + [←/→]|フォーカスしているエディターグループを切り替える|
+|command + k then [←/→]|エディターグループ自体を隣に移動させる|
+
+
 
 ## 検索系
 
@@ -41,7 +56,7 @@
 
 |操作|動作|
 |:-:|:-:|
-|ctrl + shift + ^|統合型ターミナルの起動|
+|control + shift + ^|統合型ターミナルの起動|
 
 ## jupyter（include google colaboratory）
 
@@ -51,3 +66,6 @@
 |command + option + shift + [Left/Right Arrows]|まとまりごとの選択|
 
 
+## 参考文献
+
+- https://code.visualstudio.com/shortcuts/keyboard-shortcuts-macos.pdf?WT.mc_id=code-online-jopapa
